@@ -1,7 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import { App } from './app';
+import { render } from 'react-dom';
+import App from './component/app';
 
 document.addEventListener('DOMContentLoaded', () => {
-    ReactDOM.render((<App />), document.getElementById('reactMountPoint'));
+  render((<App />), document.getElementById('reactMountPoint'));
 });

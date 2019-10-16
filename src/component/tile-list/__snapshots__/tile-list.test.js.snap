@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@tile list should match the snapshot 1`] = `
+<div
+  className="sc-gqjmRU jGsDzS"
+>
+  0
+</div>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@App should match the snapshot 1`] = `
+<div>
+  <h1>
+    UK Energy Mix
+  </h1>
+  <div
+    className="sc-gqjmRU jGsDzS"
+  >
+    0
+  </div>
+</div>
+`;

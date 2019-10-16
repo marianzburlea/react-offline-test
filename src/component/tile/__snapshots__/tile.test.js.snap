@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@Tile should match the snapshot 1`] = `
+<div
+  className="sc-htpNat kFsZpb"
+>
+  <div
+    className="sc-bwzfXH bkXHvI"
+  >
+    solar
+  </div>
+  <div
+    className="sc-bdVaJa fuxuhi"
+  >
+    100
+  </div>
+  <div />
+</div>
+`;
